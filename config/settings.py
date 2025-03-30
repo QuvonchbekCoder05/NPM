@@ -92,6 +92,7 @@ DATABASES = {
         "OPTIONS": {
             "sslmode": "require",  # ✅ SSL majburiy
         },
+        "CONN_MAX_AGE":60,
     }
 }
 
