@@ -1,0 +1,6 @@
+psycopg2
+Django 
+django-environ
+djangorestframework
+pillow 
+requests
