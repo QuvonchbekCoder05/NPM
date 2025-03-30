@@ -4,3 +4,4 @@ django-environ
 djangorestframework
 pillow 
 requests
+whitenoise
