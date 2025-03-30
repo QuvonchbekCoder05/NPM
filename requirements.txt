@@ -5,3 +5,4 @@ djangorestframework
 pillow 
 requests
 whitenoise
+gunicorn
